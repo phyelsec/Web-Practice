@@ -10,4 +10,9 @@ Located at this folder, type: npm install --save express
 After installation, the file package-lock.json will be generated. This file package.lock.json
 is automatically generated for any operations where npm modifies either the node_modules tree, or package.json.
 
-### Create a server.js
+### Run the server
+At console type in node server.js
+For stopping just type Ctrl+C
+Basically we're serving static content using Express.js.
+
+
